@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+
+# Build output
+build/
+cmake-build-*/
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
